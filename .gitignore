@@ -1,6 +1,7 @@
 /.metadata/
 node_modules/
 dist/
+build/
 
 local.properties
 
